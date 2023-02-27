@@ -1,0 +1,8 @@
+27-02-2023 13:06:22	This log contains information about the import schema operation into project 'CICD_DB' on computer 'AMMU' by user 'ammuarun'.
+27-02-2023 13:06:22	Deserializing model
+27-02-2023 13:06:23	Resolving model
+27-02-2023 13:06:23	Visiting imported model for types
+27-02-2023 13:06:23	Processing extra files
+27-02-2023 13:06:23	Finished importing Data-tier Application file.
+27-02-2023 13:06:23	A summary of the import was saved to the following location: F:\CICD_Repo\CICD_DB\Import Schema Logs\CICD_DB_20230227073622.log
+27-02-2023 13:06:23	Click Finish to continue...
